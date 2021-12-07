@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.print:print:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/440aa77525c2f8450d2457714411be4c/print-1.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/bc7d5ca3a63b51037643fc66d7e6db0c/transformed/print-1.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/1fe16f677f3080f35d20570a0d59fc43/transformed/print-1.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/466559dccad7d25e906ad1cca44551e1/transformed/print-1.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/1db7d3578c7e60b2f2e74d8d68f5c396/print-1.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/440aa77525c2f8450d2457714411be4c/print-1.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/440aa77525c2f8450d2457714411be4c/print-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/440aa77525c2f8450d2457714411be4c/print-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/modules-2/files-2.1/androidx.print/print/1.0.0/71fc2d9acf7cce6b96230c5af263268b1664914a/print-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

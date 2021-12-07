@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/2f737aa4a2735fd2a11db3413d815b9f/transformed/core-runtime-2.1.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/9c8189ebcf1e7c428c928260ba544bff/transformed/core-runtime-2.1.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/291e6f7e36cc9b5a17f76abaa4f98d33/transformed/core-runtime-2.1.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/6dc5b2356aa12cae2cb123f6bea989cc/core-runtime-2.1.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/6e36296f745e1ab81491bc17b8100968/core-runtime-2.1.0/res" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/6e36296f745e1ab81491bc17b8100968/core-runtime-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/6e36296f745e1ab81491bc17b8100968/core-runtime-2.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/modules-2/files-2.1/androidx.arch.core/core-runtime/2.1.0/f19886651c9946b39f83d8c184fd0e2ce9f43c16/core-runtime-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

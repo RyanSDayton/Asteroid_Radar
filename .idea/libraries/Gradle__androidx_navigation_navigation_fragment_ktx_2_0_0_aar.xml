@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-fragment-ktx:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/c0e8e95ff335f269e5e291ed3dd55bb4/transformed/navigation-fragment-ktx-2.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/5c63834d78b62e7fc692607e611f1b24/transformed/navigation-fragment-ktx-2.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/5ad7312c5df4a90be5921ba4fe53b3d9/transformed/navigation-fragment-ktx-2.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/b288f60ae6a5120c12acb22295fd4438/navigation-fragment-ktx-2.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/798134564d9059f6b9560898eab38264/navigation-fragment-ktx-2.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/798134564d9059f6b9560898eab38264/navigation-fragment-ktx-2.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/798134564d9059f6b9560898eab38264/navigation-fragment-ktx-2.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-fragment-ktx/2.0.0/2a1f8dd68ebead585a2ae525d4778984bfc129cf/navigation-fragment-ktx-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

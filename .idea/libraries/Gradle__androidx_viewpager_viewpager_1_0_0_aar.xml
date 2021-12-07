@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.viewpager:viewpager:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/0716a28679376d8ab94aeeba8b04ef2c/transformed/viewpager-1.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/bbfd509e1bafa3c942aefa6574fb1397/transformed/viewpager-1.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/4de04f36ffb6b91906bc3bd30e884554/transformed/viewpager-1.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/8e61d17008d681317d2f8a158682d03b/viewpager-1.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/25efd1911ba7bd3b912bc2c7266e1639/viewpager-1.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/25efd1911ba7bd3b912bc2c7266e1639/viewpager-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/25efd1911ba7bd3b912bc2c7266e1639/viewpager-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

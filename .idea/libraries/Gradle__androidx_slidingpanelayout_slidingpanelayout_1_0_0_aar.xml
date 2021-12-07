@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/7b021b94be6830c87088ae89cce192b8/transformed/slidingpanelayout-1.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/cf61f6c145037276f7bc3487de494dc3/transformed/slidingpanelayout-1.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/020c021fbc9522fedc564d1d244ef60e/transformed/slidingpanelayout-1.0.0/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/98884f72826d1dd65b62c4fab47eefb5/slidingpanelayout-1.0.0/res" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/76d5e79236ad37553f56b0301a52e61d/slidingpanelayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/76d5e79236ad37553f56b0301a52e61d/slidingpanelayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/76d5e79236ad37553f56b0301a52e61d/slidingpanelayout-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/modules-2/files-2.1/androidx.slidingpanelayout/slidingpanelayout/1.0.0/f3f2e4fded24d5969a86e1974ad7e96975d970a0/slidingpanelayout-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

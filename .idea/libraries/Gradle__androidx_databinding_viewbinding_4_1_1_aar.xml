@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.databinding:viewbinding:4.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-3/d94867692841e66ca50afeb326ecc26c/transformed/jetified-viewbinding-4.1.1/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/055d57713e0dcd50e7e31e77d242c360/jetified-viewbinding-4.1.1/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/3da9cd67bb1abc5cdf6877626bc5911b/jetified-viewbinding-4.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/3da9cd67bb1abc5cdf6877626bc5911b/jetified-viewbinding-4.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/transforms-2/files-2.1/3da9cd67bb1abc5cdf6877626bc5911b/jetified-viewbinding-4.1.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/CriminalIntent/gradle/caches/modules-2/files-2.1/androidx.databinding/viewbinding/4.1.1/4779a8ac3390acdaaaccc59f8528af9ff5f778b0/viewbinding-4.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
